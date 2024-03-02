@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "FabSoc Docs",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "utsfabsoc.github.io/Docs/",
     ignorePatterns: ["private", "templates", ".obsidian"],

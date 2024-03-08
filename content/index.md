@@ -1,7 +1,6 @@
 ---
 title: FabSoc Docs
-tags:
-  - Workshops
+tas: []
 ---
 
 Welcome to the FabSoc Docs! Coming soon™

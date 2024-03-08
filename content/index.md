@@ -5,5 +5,4 @@ CAD Workshops:
 Weekly Meetups:
   - WeeklyMeetups Mini Slides
 ---
-
 Welcome to the FabSoc Docs! Coming soon™

@@ -72,11 +72,32 @@ Don't worry about these just yet, they're just here for reference if you need th
 ---
 ### 2.2 Create Square Nut Insert Hole
 * Create another centre rectangle (non Construction)at any point along this new line, with the below dimensions
-* Then press D for the dimension tool, select the blue lines, and make 5 the dimension
-* Finish Sketch
-![[Pasted image 20240313002604.png]]
+* Then press D for the dimension tool, select the Far Edge of the 1st rectangle, and the black dot of the new rectangle, and make 5 the dimension
+![[Pasted image 20240313082730.png]]
+---
+## Creating the Chassis pt.1
+![[Pasted image 20240313083452.png]]
+
 
 ---
 ## 3.0 Extrude Main Chassis & Square Nut
-- You'll notice that there are two sections that are higlightable
-- 
+- You'll notice that there are two sections that are highlightable
+- Press E(for extrude) or Q(for press pull and it'll automatically turn into an extrude)
+- Select both faces and extrude them up by 10mm as New Body
+![[Pasted image 20240313082147.png]]
+
+---
+### 3.1 Extrude Main Chasses & Square Nut
+* Once you've confirmed the extrude you'll notice that the sketch dissapears.
+* Go the the sketch folder and click on the eye to make it visible again
+* Once you've made it visible, extrude the Square Nut hole by 9mm
+![[Pasted image 20240313082513.png]]
+
+---
+
+### 4. Rectangular Pattern the Square Nut Feature
+- Use the Rectangular Pattern set to object type features, to pattern that extrude command we did across the bottom of the body.
+- We select the long edge of the body as the axis, and the extrude feature as the object.
+- Copy the values below to get a similar outcome
+![[Pasted image 20240313082952.png]]
+---

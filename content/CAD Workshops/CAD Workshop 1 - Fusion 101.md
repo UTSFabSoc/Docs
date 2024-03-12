@@ -101,3 +101,8 @@ Don't worry about these just yet, they're just here for reference if you need th
 - Copy the values below to get a similar outcome
 ![[Pasted image 20240313082952.png]]
 ---
+### 5. Creating the Screw Hole Axles
+- Start a new sketch on the side of the main block
+- Press P to create a project command and project the inside of the extruded slot.
+- Double click on the line of this new rectangle and press X to turn it into a construction line
+![[Pasted image 20240313083846.png]]

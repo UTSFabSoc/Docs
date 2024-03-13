@@ -364,7 +364,7 @@ It is strongly recommended for you to play around & get used to the different us
 - Choose your preferred wheel by just turning off the visibility of the other one
 - Save your project.
 ---
-# 3. Linked Components, Assemblies & Joints
+# 3.1. Linked Components, Assemblies & Joints
 - Now that we've completed the Chassis & Wheels, we're going to explore how to combine these two elements in an Assembly workspace
 - Open a new tab, and open your Data panel to the project & folder that you saved your wheels and Chassis into.
 - Drag and Drop the two files into the blank workspace
@@ -373,9 +373,21 @@ It is strongly recommended for you to play around & get used to the different us
 ![[Pasted image 20240313125255.png]]
 
 ---
-
+### 3.2 Adding Joints
 - Disable Visibility for the Carriage and use the Joints Tool on the inside wheel
 ![[Pasted image 20240313125446.png]]
+
+---
+### 3.3 Adding Joints
+- Enable Visibility for the main chassis & select the center of the Chassis' Axle hole.
+- Add a 1mm buffer
+- Repeat the import & Joint attachment of the wheels 3 more times
+![[Pasted image 20240313130922.png]]
+---
+### 4.0 Congratulations!
+- Congrats, by now you should have something that is similar to this!
+- For the rest of the workshop, use the techniques and workflow you've learnt to create a container to stick on top of the chassis!
+![[Pasted image 20240313131156.png]]
 
 
 ---
@@ -384,3 +396,4 @@ It is strongly recommended for you to play around & get used to the different us
 
 ---
 # Next Workshop: 101 3D printing & optimizing for 3D Printing
+- Learn how to 

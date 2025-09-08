@@ -8,4 +8,6 @@ When you're ready to publish your changes to live, push them to the main branch.
 ### Troubleshooting 
 An issue I ran into when trying to update this site was depreciated versions of the GitHub actions artifacts. If you get an error like below, try checking what the latest version of each artifact in `.github\workflows\deploy.yaml` is and updating them to latest (by changing the version number)
 
+
+
 ![[Pasted image 20250819211849.png]]

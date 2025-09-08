@@ -1,5 +1,5 @@
 # New Workshop Move Almost Complete!
-![[20240308_105613.jpg]]
+![[20240308_105613.jpg]] 
 ---
 ## Equipment to be Moved:
 ![[20240305_100107.jpg]]

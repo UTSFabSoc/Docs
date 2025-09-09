@@ -6,9 +6,10 @@ The FabSoc Technician Google Account, more commonly referred to as just the *Tec
 This is a publicly accessible page so no specific passwords will be listed here but I can supply links to where they are detailed in the FabSoc exec channels - You'll only be able to access these if you are a technician or higher in the fabrication society discord!
 
 ## Login
-Email: technician@fabrication.activateuts.com.au
-Password: [Link that only works if you are a technician](https://discord.com/channels/1038007666032787476/1215834349065469992/1224556561939173427)
-2FA Key: [Link that only works if you are a technician](https://discord.com/channels/1038007666032787476/1215834349065469992/1401817286913822720)
+- Email: technician@fabrication.activateuts.com.au
+- Password: [Technician Link😺](https://discord.com/channels/1038007666032787476/1215834349065469992/1224556561939173427)
+- 2FA Key: [Technician Link😺](https://discord.com/channels/1038007666032787476/1215834349065469992/1401817286913822720)
+	- You'll need to load this into a 2FA Key manager such as Bitwarden, Aegis or Google Authenticator in order to generate the 6-digit codes that are needed for login
 
 
 > [!DANGER] Warning

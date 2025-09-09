@@ -34,8 +34,8 @@ The printer should now be connected to the Tailnet!
 A more convenient method to access the printers can be Cloudflare tunnels! These allow us to access the printer interfaces over the world wide web, provided you have the FabsSoc login.
 ### Using the Tunnels
 Currently we have two tunnels setup for the Endermixer. 
-- https://endermixer.tabbycat.dev provides access to the Octoprint instance for the printer and will work as long as you are inside Australia (You still need the [[Endermixer login]]!)
-- https://endermixerssh.tabbycat.dev provides a web SSH client for the raspberry pi connected to the Endermixer. To use it you will need to provide the [[Technician Google Account]] email to receive a login code, then the SSH login can be found in the technician channel: [link that only works for technicians](https://discord.com/channels/1038007666032787476/1215834349065469992/1406124743366672435)
+- https://endermixer.tabbycat.dev provides access to the Octoprint instance for the printer and will work as long as you are inside Australia (You still need the [Endermixer login😺](https://discord.com/channels/1038007666032787476/1079986034034606130/1378361883505066014)!)
+- https://endermixerssh.tabbycat.dev provides a web SSH client for the raspberry pi connected to the Endermixer. To use it you will need to provide the [[Technician Google Account]] email to receive a login code, then the SSH login can be found in the technician channel: [Technician Link😺](https://discord.com/channels/1038007666032787476/1215834349065469992/1406124743366672435)
 
 > [!Info]- Note on Creating and Managing Tunnels
 > Currently the tunnels are managed by Tabby with their personal domain https://tabbycat.dev. Currently this guide doesn't cover creating tunnels since that would require logging into Tabby's personal account but if/when FabSoc acquires its own domain, I will make sure that section is added :3 - Tabby 

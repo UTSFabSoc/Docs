@@ -1,3 +1,7 @@
+> [!Warning] This page is work in progress!
+> Todo:
+> - add actual pictures of the printers
+> - modelling and slicing guide links
 ## Meet the Printers!
 
 | ![[Pasted image 20250909003506.png]] | ![[Pasted image 20250909003455.png]]                          | ![[Pasted image 20250909003600.png]] |

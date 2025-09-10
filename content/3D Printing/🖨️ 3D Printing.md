@@ -1,14 +1,14 @@
 
 > [!Warning] This page is work in progress!
 > Todo:
-> - [ ] add actual pictures of the printers
+> - [x] add actual pictures of the printers
 > - [ ] modelling and slicing guide links
 ## Meet the Printers!
 
-| ![[Pasted image 20250909003506.png]]                           | ![[Pasted image 20250909003455.png]]                                                     | ![[Pasted image 20250909003600.png]]                       |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **[[3D Printing/Piper\|Piper]]**<br>Bambu Labs P1P             | **[[3D Printing/Leaky\|Leaky]]**<br>Bambu Labs A1                                        | **[[3D Printing/Basil\|Basil]]**<br>Bambu Labs A1 with AMS |
-| ![[Pasted image 20250909003715.png]]                           | ![[Pasted image 20250909003716.png]]                                                     |                                                            |
+| ![[Pasted image 20250910132233.png]]               | ![[Pasted image 20250910132243.png]]                                                     | ![[Pasted image 20250910132325.png]]                       |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **[[3D Printing/Piper\|Piper]]**<br>Bambu Labs P1P | **[[3D Printing/Leaky\|Leaky]]**<br>Bambu Labs A1                                        | **[[3D Printing/Basil\|Basil]]**<br>Bambu Labs A1 with AMS |
+| ![[Pasted image 20250910132204.png]]               | ![[Pasted image 20250910132218.png]]                                                     |                                                            |
 | **[[Endermixer\|Endermixer]]**<br>Modified Ender 3 | ~~**[[3D Printing/Enderloop\|Enderloop]]**~~ (Currently Unavailable)<br>Modified Ender 3 |                                                            |
 ### Which printer should I use?
 Each machine has its own upsides and downsides, the best one to use depends on the needs of your project:
@@ -22,6 +22,8 @@ Each machine has its own upsides and downsides, the best one to use depends on t
 - PLA: Most basic and general purpose material for 3D printing, easiest to print and work with, however, not particularity strong or heat/sun resistant
 - PETG: More difficult to work with but creates stronger parts 
 - TPU/TPE: These materials are both flexible rubber materials. TPE is slightly more flexible than TPU
+
+Last Updated: `9th September`
 
 | Color                                 | Material        | Notes                                |
 | ------------------------------------- | --------------- | ------------------------------------ |

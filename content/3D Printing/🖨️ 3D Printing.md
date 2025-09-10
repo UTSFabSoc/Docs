@@ -17,6 +17,9 @@ Each machine has its own upsides and downsides, the best one to use depends on t
 - If you want to print in up to 2 colours and have a gradient between them - Use **[[Endermixer]]** as it is its speciality
 - If you want to print something really long, or many small prints - Use the **[[Enderloop]]** as one of it print bed dimensions is effectively infinite.
 
+### How can I make 3D models?
+Check out our [[3D Modelling]] guide!
+
 ## Filament Library
 ### Difference between material types
 - PLA: Most basic and general purpose material for 3D printing, easiest to print and work with, however, not particularity strong or heat/sun resistant

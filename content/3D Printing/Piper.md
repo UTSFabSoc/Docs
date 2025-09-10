@@ -1,7 +1,8 @@
 ![[Pasted image 20250910132233.png|300]]
+
 Piper is a Bambu Labs P1P, It's a CoreXY printer which means it is capable of some of the most stable and precise printing. In its current configuration it can only be loaded with a single colour of filament at a time.
 
-A minor downside is its much less user friendly display on the printer itself
+A minor downside is that its much less user friendly display on the printer itself
 
 > [!help] Technician Links
 > - [[Accessing Bambu Labs Printers]]

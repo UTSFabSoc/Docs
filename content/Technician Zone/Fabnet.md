@@ -12,6 +12,14 @@ In order to be able to connect to our printers from anywhere, we use a few diffe
 > [!NOTE] Note
 > This only applies to non-Bambu Labs printers. They have their own solution for remote access. This document is specifically about tools used to connect to printers such as the Endermixer and Enderloop
 
+## Connecting to the UTS Network
+Since the 3D printers cannot be connected to the standard UTS network (since they require authentication), the printers will need to connect to DeviceNet. While device net is a controlled network, individual devices can be authorised via their unique mac address, usually this can be done by the [DeviceNet Registration Page](https://nac.itd.uts.edu.au/guest/game_console_registration.php) but the standard DeviceNet which this services does not reach to the Harry Heath room.
+
+Fortunately DeviceNetNIVC is available in the Harry Heath room which is what we have been using to connect our existing printers to the internet, however this is a more advanced process that requires an exec to contact IT to connect any new printers to the network rather than being able to do it ourselves
+
+Once authorised, a connection can be established on the UI of Bambu Labs printers, or by making an SSH connection to the printer controller and modifying wifi settings over the command line. For Debian based distributions you should be looking for the `wpa_supplicant` file.
+You will also need the [DeviceNetNIVC Password😺](https://discord.com/channels/1038007666032787476/1079986034034606130/1394868347627241502)
+
 ## Tailscale
 Tailscale is a mesh VPN service, essentially it allows us to create a virtual network such that we can act as if we are on the same network as the 3D printers even when we aren't.
 While it is more complex to use than the tunnels which we'll talk about in the next section, It's a good backup in case anything happens to the tunnels.

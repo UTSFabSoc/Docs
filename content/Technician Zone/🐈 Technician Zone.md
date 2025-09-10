@@ -1,12 +1,6 @@
 
-> [!Warning] This page is work in progress!
-> Things to write guides for
-> - Fabsoc Google Account
-> - Fabsoc Docs ([[README]] will do for now)
-> - Domain Management
-> - Cloudflare Tunnels
-> - Tailscale
-> - Minecraft Server? 
+## Quick Links
+- [Printer Status and Filament Allocation😺](https://discord.com/channels/1038007666032787476/1374178168620974190)
 
 ## Technician Guides
 - [[Technician Google Account|🖱️Technician Google Account]]

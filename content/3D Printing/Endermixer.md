@@ -1,4 +1,5 @@
 ![[Pasted image 20250910132204.png|300]]
+
 The Endermixer is a customised Ender 3 printer which has been modified to support two filament streams being merged into one. This allows you to mix two different filaments, switch between them during the print or create a gradient colour between the two
 
 

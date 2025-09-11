@@ -2,7 +2,7 @@
 
 Basil is a Bambu Labs A1 connected to an AMS unit (Automatic Material System) allowing to switch between up to 4 different filaments automatically during a print.
 
-However, as cool as it sounds, the AMS can be quite unreliable and will often get stuck requiring help from a human from time to time. 
+While useful, the AMS can be unreliable and get stuck requiring help and/or maintenance from a human from time to time. 
 
 > [!help] Technician Links
 > - [[Accessing Bambu Labs Printers]]

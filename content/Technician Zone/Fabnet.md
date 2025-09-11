@@ -17,8 +17,10 @@ Since the 3D printers cannot be connected to the standard UTS network (since the
 
 Fortunately DeviceNetNIVC is available in the Harry Heath room which is what we have been using to connect our existing printers to the internet, however this is a more advanced process that requires an exec to contact IT to connect any new printers to the network rather than being able to do it ourselves
 
-Once authorised, a connection can be established on the UI of Bambu Labs printers, or by making an SSH connection to the printer controller and modifying wifi settings over the command line. For Debian based distributions you should be looking for the `wpa_supplicant` file.
+Once authorised, a connection can be established on the UI of Bambu Labs printers, or by making an SSH connection to the printer controller and modifying wifi settings over the command line. For Debian based distributions you should be looking for the `wpa_supplicant.conf` file.
 You will also need the [DeviceNetNIVC Password😺](https://discord.com/channels/1038007666032787476/1079986034034606130/1394868347627241502)
+
+![[Pasted image 20250911150728.png]]
 
 ## Tailscale
 Tailscale is a mesh VPN service, essentially it allows us to create a virtual network such that we can act as if we are on the same network as the 3D printers even when we aren't.

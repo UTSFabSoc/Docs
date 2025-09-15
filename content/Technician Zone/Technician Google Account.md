@@ -13,7 +13,7 @@ First from the google login screen, enter the email and password as you normally
 You will then be asked for the 6-Digit, 2FA Key - however the login page will word this as a *Verification code from the **Google Authenticator App*** - YOU DO NOT NEED TO USE GOOGLE AUTHENTICATOR
 
 ![[Pasted image 20250915171506.png]]
-When you reach this stage you will need to setup a two factor code generator, This is an app which will take the 2FA ***Key*** and turn it into 6-Digit 2FA ***Code***s that google needs to let you login. For this guide I will be using the Ente Authenticator as it is free, open source and available on all the main platforms (Android, iOS, Windows, Mac and Linux). The Instructions should be fairly similar regardless of the platform you use 
+When you reach this stage you will need to setup a two factor code generator, This is an app which will take the 2FA `Key` and turn it into 6-Digit 2FA `Code`s that google needs to let you login. For this guide I will be using the Ente Authenticator as it is free, open source and available on all the main platforms (Android, iOS, Windows, Mac and Linux). The Instructions should be fairly similar regardless of the platform you use 
 ### Setup Ente (Android App)
 1. Download the Ente Authenticator: https://ente.io/download/
 2. When you open the app you will be asked if you want to login to an account, You can do that id you want but for this guide I will not be logging in and instead pressing "Use without backups"
@@ -23,12 +23,12 @@ When you reach this stage you will need to setup a two factor code generator, Th
    
    ![[Pasted image 20250915173548.png|300]]
 2. Fill in the fields for the new account
-   Issuer: `Google`
-   Account: `Technician Account`
-   Secret: The 2FA ***key*** which is available to view here: [Technician Link😺](https://discord.com/channels/1038007666032787476/1215834349065469992/1417051789878104195)
+   - Issuer: `Google`
+   - Account: `Technician Account`
+   - Secret: The 2FA `key` which is available to view here: [Technician Link😺](https://discord.com/channels/1038007666032787476/1215834349065469992/1417051789878104195)
    
    ![[Pasted image 20250915173816.png|300]]
-1. You now have access to the generated 2FA ***codes***! This is what you enter into the google login.
+1. You now have access to the generated 2FA `code`s! This is what you enter into the google login.
    
    ![[Pasted image 20250915173851.png|300]]
 

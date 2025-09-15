@@ -43,3 +43,8 @@ In order to turn the markdown files into a site that can be hosted on the intern
 The final step in order to host the website is Github deploy. This is an automated process run on the Github servers which uses the quartz configuration to build and deploy the static website files. This should just work on its own but if you get a deployment error like below:
 ![[Pasted image 20250819211849.png]]
 Then you'll need to go into the config at `Docs\.github\workflows\deploy.yaml` and figure out what's going wrong. last time we had issues it was due to outdated versions of the `artifiact-actions` being used so try checking those first if you get a similar error!
+
+## All together now
+1. Clone the GitHub repo for FabSoc docs https://github.com/UTSFabSoc/Docs
+2. Open and edit the documentation in Obsidian or any other compatible markdown editors
+3. Push your changes back to the FabSoc repo (or make a pull request if you don't have access to push directly)

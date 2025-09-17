@@ -22,7 +22,7 @@ some body text here
 
 > [!done] The above would be formatted to:
 > # Heading
-some body text here
+> some body text here
 > - Bullet point 1
 > - Bullet point 2
 > - Bullet point 3

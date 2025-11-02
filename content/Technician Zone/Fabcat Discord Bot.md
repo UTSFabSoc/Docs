@@ -36,9 +36,9 @@ Since these commands edit data, only users with the `technician` role may use th
 > [!Warning] Work in progress
 
 fabcat is made in Godot v4.5 with the discord.gd plugin. To edit the project follow these steps:
-1. Download Godot v4.5
-2. Clone the fabcat repo to your computer 
-3. Add the `.env` file with the discord bot key
+1. Download [Godot v4.5](https://godotengine.org/download/archive/)
+2. Clone the [fabcat repo](https://github.com/tabby-cat-nya/FabcatBot) to your computer 
+3. Add the `.env` file with the discord bot key (ask Tabby)
 4. Open the project folder with Godot
 
 ### Project Structure

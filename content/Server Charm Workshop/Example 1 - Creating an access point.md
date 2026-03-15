@@ -5,7 +5,7 @@ This example creates an access point with the provided name which users can conn
 
 #define RGB_BRIGHTNESS 1  // Change white brightness (max 255)
 
-const char *ssid = "Server Charm Workshop!";
+const char *ssid = "Server Charm Workshop!"; // Change this to set the name of your access point!
 
 IPAddress apIP(172, 217, 28, 1);
 
@@ -14,7 +14,7 @@ void setup() {
   Serial.begin(115200);
   Serial.println();
   Serial.println("Configuring access point...");
-  neopixelWrite(RGB_BUILTIN, RGB_BRIGHTNESS, 0, 0);  // Red until ap is created
+  neopixelWrite(RGB_BUILTIN, RGB_BRIGHTNESS, 0, 0);  // Change RGB to red until the access point is created
 
   WiFi.mode(WIFI_AP);
   WiFi.setTxPower(WIFI_POWER_21dBm); // max power
@@ -26,23 +26,18 @@ void setup() {
       ;
   }
 
-
-
   IPAddress myIP = WiFi.softAPIP();
-
   Serial.print("AP IP address: ");
   Serial.println(myIP);
 
   Serial.println("Server started");
-  neopixelWrite(RGB_BUILTIN, 0, 0, RGB_BRIGHTNESS);  // Blue
+  neopixelWrite(RGB_BUILTIN, 0, 0, RGB_BRIGHTNESS);  // Change RGB to blue to show the AP was created
 
-  ;
 }
 
 void loop() {
   
   
 }
-
 ```
 

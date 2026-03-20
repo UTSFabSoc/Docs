@@ -4,9 +4,10 @@
 - Additional board manager URL's: 
   `https://espressif.github.io/arduino-esp32/package_esp32_index.json`
 - [[Example 1 Code - Creating an access point]]
-- [Example 1 Project Download](https://github.com/UTSFabSoc/Docs/raw/refs/heads/main/workshop_AccessPoint.zip)
+- [Example 1 Project Download](https://github.com/UTSFabSoc/Docs/raw/refs/heads/main/content/Server%20Charm%20Workshop/Files/workshop_AccessPoint.zip)
 ## Approach 1
 - [[Example 2 Code - Serving a single webpage]]
+- [Example 2 Project Download](https://github.com/UTSFabSoc/Docs/raw/refs/heads/main/content/Server%20Charm%20Workshop/Files/workshop_SimpleSite.zip)
 ## Approach 2
 - [LittleFS Plugin download](https://github.com/earlephilhower/arduino-littlefs-upload/releases/tag/1.6.3)
 - [[Example 3 Code - Serving an advanced website]]

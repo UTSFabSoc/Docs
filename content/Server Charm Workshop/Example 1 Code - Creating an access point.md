@@ -1,5 +1,5 @@
 This example creates an access point with the provided name which users can connect to (although nothing happens when they do)
-```c
+```cpp
 #include <WiFi.h>
 #include <esp_wifi.h>
 

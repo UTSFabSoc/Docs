@@ -1,4 +1,4 @@
-## [🖥 View Slides](https://docs.google.com/presentation/d/1Y7x4CKQbvh-I2nDbcyf-wUChW0C2cpDNMP5VHZoY5Ac/edit?usp=sharing)
+## [🖼 View Slides](https://docs.google.com/presentation/d/1Y7x4CKQbvh-I2nDbcyf-wUChW0C2cpDNMP5VHZoY5Ac/edit?usp=sharing)
 
 ## Creating an Access Point
 - Additional board manager URL's: 
@@ -11,7 +11,7 @@
 ## Serving an Advanced Website
 - [LittleFS Plugin download](https://github.com/earlephilhower/arduino-littlefs-upload/releases/tag/1.6.3)
 - [[Example 3 Code]]
-- [Example 3 Project Download]
+- [Example 3 Project Download](https://github.com/UTSFabSoc/Docs/raw/refs/heads/main/content/Server%20Charm%20Workshop/Files/workshop_AdvancedSite.zip)
 
 ## See also/references
 - add: guides my workshop was based on

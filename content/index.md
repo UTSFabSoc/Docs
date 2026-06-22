@@ -16,3 +16,5 @@ Recently Fabsoc acquired a set of heat presses which can be used for a number of
 We also have a range of other tools to help you with your projects!
 ## [[🐈 Technician Zone]]
 This section will primarily have information which is only useful to the FabSoc exec team - like information on how tools and systems (eg this wiki) are setup. Also worth noting, Links with the cat emoji (😺) can only be accessed if you are a Technician
+
+[[Fabsoc Club Constitution]]
